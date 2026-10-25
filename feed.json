@@ -55,8 +55,8 @@
     },
     {
       "id": "8",
-      "name": "RAAJJE TV",
-      "url": "https://stream.raajje.mv/live/stream_c95ravtr7cyk/index.m3u8",
+      "name": "PSM NEWS",
+      "url": "https://lana.psm.mv/live/nws.m3u8",
       "type": "HLS",
       "group": "Local"
     }
