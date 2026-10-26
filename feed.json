@@ -9,10 +9,9 @@
       "group": "Local"
     },
     {
-      "id": "2",
-      "name": "YES TV",
-      "url": "https://lana.psm.mv/live/yes.m3u8",
-      "sub_url": "https://lana.psm.mv/live/yes.m3u8",
+      "id": "9",
+      "name": "National Volleyball League 2026 - Women's Division",
+      "url": "https://secure-link.bitratelabs.com/sunplay-secure-streams/national-volleyball-league-2026-women-division-e57914b75ddc455c8c71b7ff421db250/index.m3u8",
       "type": "HLS",
       "group": "Local"
     },
@@ -59,13 +58,7 @@
       "url": "https://lana.psm.mv/live/nws.m3u8",
       "type": "HLS",
       "group": "Local"
-    },
-    {
-      "id": "9",
-      "name": "National Volleyball League 2026 - Women's Division",
-      "url": "https://secure-link.bitratelabs.com/sunplay-secure-streams/national-volleyball-league-2026-women-division-e57914b75ddc455c8c71b7ff421db250/index.m3u8",
-      "type": "HLS",
-      "group": "Local"
     }
+    
   ]
 }
