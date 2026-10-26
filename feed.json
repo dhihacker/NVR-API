@@ -63,8 +63,8 @@
     {
       "id": "9",
       "name": "National Volleyball League 2026 - Women's Division",
-      "url": "rtmp://push.sun.com.mv/sstv/national-volleyball-league-2026-women-division-e57914b75ddc455c8c71b7ff4",
-      "type": "RTMP",
+      "url": "https://secure-link.bitratelabs.com/sunplay-secure-streams/national-volleyball-league-2026-women-division-e57914b75ddc455c8c71b7ff421db250/index.m3u8",
+      "type": "HLS",
       "group": "Local"
     }
   ]
