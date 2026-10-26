@@ -10,8 +10,8 @@
     },
     {
       "id": "2",
-      "name": "National Volleyball League 2026 - Women's Division",
-      "url": "https://secure-link.bitratelabs.com/sunplay-secure-streams/national-volleyball-league-2026-women-division-e57914b75ddc455c8c71b7ff421db250/index.m3u8",
+      "name": "Cam",
+      "url": "http://192.168.1.79:8082/cam1-782f1196d4/index.m3u8",
       "type": "HLS",
       "group": "Local"
     },
