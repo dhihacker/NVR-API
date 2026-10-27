@@ -10,7 +10,7 @@
     },
     {
       "id": "2",
-      "name": "Cam",
+      "name": "Cam HD",
       "url": "rtsp://sfey:ad4fec@192.168.1.85:554/live/channel0",
       "type": "HLS",
       "group": "Local"
