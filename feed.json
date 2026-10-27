@@ -11,7 +11,7 @@
     {
       "id": "2",
       "name": "Cam",
-      "url": "http://192.168.1.79:8082/cam1-782f1196d4/video.m3u8",
+      "url": "rtsp://sfey:ad4fec@192.168.1.85:554/live/channel0",
       "type": "HLS",
       "group": "Local"
     },
