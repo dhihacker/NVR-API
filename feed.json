@@ -4,7 +4,7 @@
       "id": "1",
       "name": "TVM",
       "url": "http://192.168.1.169:8001/1:0:1:4270:12E:2114:EEEE0000:0:0:0:",
-      "type": "HLS",
+      "type": "TS",
       "group": "Local"
     },
      {
@@ -32,14 +32,14 @@
       "id": "5",
       "name": "VTV",
       "url": "http://192.168.1.169:8001/1:0:1:426E:12E:2114:EEEE0000:0:0:0:",
-      "type": "HLS",
+      "type": "TS",
       "group": "Local"
     },
     {
       "id": "6",
       "name": "CH13",
       "url": "http://192.168.1.169:8001/1:0:1:426B:12E:2114:EEEE0000:0:0:0:",
-      "type": "HLS",
+      "type": "TS",
       "group": "Local"
     },
     {
