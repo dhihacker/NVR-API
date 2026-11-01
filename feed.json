@@ -50,11 +50,11 @@
       "group": "NEWS"
     },
     {
-      "id": "8",
+      "id": "7",
       "name": "YES TV",
       "url": "http://192.168.1.169:8001/1:0:1:426F:12E:2114:EEEE0000:0:0:0:",
       "type": "TS",
-      "group": "NEWS"
+      "group": "Local"
     }
    
     
