@@ -23,7 +23,7 @@
     },
     {
       "id": "4",
-      "name": "Spacex",
+      "name": "Spacex live",
       "url": "https://prod-fastly-a.video.pscp.tv/Transcoding/v1/hls/OxCTeqrDNI0AJTCAEqteAJss-XG5yIpIJAzDfFDKiaUPiysLIi2vKiScLze84hOsaHNtXK4Qu-bNp6NcBCnmQA/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_delta.m3u8?type=live",
       "type": "HLS",
       "group": "Local"
